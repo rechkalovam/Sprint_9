@@ -1,0 +1,4 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","1890","Проверка создания рецепта","tests","Tue Aug 05 18:27:26 GMT+05:00 2025","passed","Tue Aug 05 18:27:27 GMT+05:00 2025","TestCreateRecipePage","test_create_recipe_page","",""
+"","1358","Проверка авторизации пользователя","tests","Tue Aug 05 18:27:31 GMT+05:00 2025","passed","Tue Aug 05 18:27:33 GMT+05:00 2025","TestLoginPage","test_login_page","",""
+"","2655","Проверка регистрации пользователя","tests","Tue Aug 05 18:27:34 GMT+05:00 2025","passed","Tue Aug 05 18:27:37 GMT+05:00 2025","TestRegistrationPage","test_registration_page","",""
