@@ -4,9 +4,7 @@
     "versions": {
       "128.0": {
         "image": "selenoid/chrome:128.0",
-        "tmpfs": {
-          "/dev/shm": "size=256m"
-        }
+        "port": "4444"
       }
     }
   }
